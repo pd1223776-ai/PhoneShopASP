@@ -1,0 +1,15 @@
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneShopMVC.Model.csproj.AssemblyReference.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneShopMVC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneShopMVC.Model.AssemblyInfoInputs.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneShopMVC.Model.AssemblyInfo.cs
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneShopMVC.Model.csproj.CoreCompileInputs.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\bin\Debug\net8.0\PhoneShopMVC.Model.deps.json
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\bin\Debug\net8.0\PhoneShopMVC.Model.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\bin\Debug\net8.0\PhoneShopMVC.Model.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\bin\Debug\net8.0\PhoneShopMVC.Utility.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\bin\Debug\net8.0\PhoneShopMVC.Utility.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneSho.8F93CE1C.Up2Date
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneShopMVC.Model.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\refint\PhoneShopMVC.Model.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\PhoneShopMVC.Model.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Model\obj\Debug\net8.0\ref\PhoneShopMVC.Model.dll

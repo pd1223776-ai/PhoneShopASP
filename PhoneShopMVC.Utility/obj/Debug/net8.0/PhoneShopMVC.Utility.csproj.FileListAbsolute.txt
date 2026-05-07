@@ -1,0 +1,12 @@
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\bin\Debug\net8.0\PhoneShopMVC.Utility.deps.json
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\bin\Debug\net8.0\PhoneShopMVC.Utility.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\bin\Debug\net8.0\PhoneShopMVC.Utility.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\PhoneShopMVC.Utility.csproj.AssemblyReference.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\PhoneShopMVC.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\PhoneShopMVC.Utility.AssemblyInfoInputs.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\PhoneShopMVC.Utility.AssemblyInfo.cs
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\PhoneShopMVC.Utility.csproj.CoreCompileInputs.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\PhoneShopMVC.Utility.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\refint\PhoneShopMVC.Utility.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\PhoneShopMVC.Utility.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.Utility\obj\Debug\net8.0\ref\PhoneShopMVC.Utility.dll

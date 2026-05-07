@@ -1,0 +1,17 @@
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\bin\Debug\net8.0\PhoneShopMVC.DataAccess.deps.json
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\bin\Debug\net8.0\PhoneShopMVC.DataAccess.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\bin\Debug\net8.0\PhoneShopMVC.DataAccess.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\bin\Debug\net8.0\PhoneShopMVC.Model.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\bin\Debug\net8.0\PhoneShopMVC.Utility.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\bin\Debug\net8.0\PhoneShopMVC.Model.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\bin\Debug\net8.0\PhoneShopMVC.Utility.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneShopMVC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneShopMVC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneShopMVC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneShopMVC.DataAccess.AssemblyInfo.cs
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneShopMVC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneSho.6B766820.Up2Date
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneShopMVC.DataAccess.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\refint\PhoneShopMVC.DataAccess.dll
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\PhoneShopMVC.DataAccess.pdb
+C:\Users\vuk19\Downloads\Compressed\BookShopDotNETCore-master\PhoneShopMVC.DataAccess\obj\Debug\net8.0\ref\PhoneShopMVC.DataAccess.dll
